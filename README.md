@@ -69,7 +69,7 @@ Start the game: When the application is launched, a random number between 1 and 
   ![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_02/main/Screenshot%202024-07-22%20165257.png)
   ![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_02/main/Screenshot%202024-07-22%20192501.png)
   ![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_02/main/Screenshot%202024-07-22%20192537.png)
-  ![Screenshot 2024-07-22 131710.png](
+  ![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_02/main/Screenshot%202024-07-22%20165234.png)
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, feel free to fork the repository and create a pull request.
