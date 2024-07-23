@@ -1,7 +1,7 @@
 
 # PRODIGY_SD_02
 
-Repository of Temperature Converter Program
+Repository of Guessing Number Game
 [Internship](https://github.com/LizzyTrevisan/Prodigy_SD_02)
 
 
