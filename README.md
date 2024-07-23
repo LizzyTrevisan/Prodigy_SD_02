@@ -66,9 +66,13 @@ Start the game: When the application is launched, a random number between 1 and 
 - Reset the game: Click the Reset button to start a new game with a new random number.
 
   ![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_02/main/Screenshot%202024-07-22%20192452.png)
+  
   ![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_02/main/Screenshot%202024-07-22%20165257.png)
+  
   ![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_02/main/Screenshot%202024-07-22%20192501.png)
+  
   ![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_02/main/Screenshot%202024-07-22%20192537.png)
+  
   ![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_02/main/Screenshot%202024-07-22%20165234.png)
 
 ## Contributing
